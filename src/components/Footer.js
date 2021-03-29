@@ -5,7 +5,7 @@ class Footer extends React.Component {
     return (
       <div className="Footer">
         <p>
-          &copy; 2020 by Khoi Nguyen. Made with{" "}
+          &copy; {new Date().getFullYear()} by Khoi Nguyen. Made with{" "}
           <a
             href="https://reactjs.org/"
             target="_blank"
