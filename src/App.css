@@ -28,6 +28,10 @@ body {
 }
 
 /* Style Links */
+.Links {
+  max-width: 50rem;
+  margin: auto;
+}
 .Links .link-boxes-container {
   margin: 170px 5% 3% 5%;
   background-color: #87a7bc;
