@@ -1,6 +1,7 @@
 import React from "react";
 
 const myLinks = [
+  "Best App I've Seen",
   "My Vietnamese YouTube channel",
   "My Instagram",
   "My LinkedIn",
@@ -8,6 +9,7 @@ const myLinks = [
   "My Twitter for Programming",
 ];
 const url = [
+  "https://sharethemeal.org/donate",
   "https://www.youtube.com/c/khoiuna",
   "https://www.instagram.com/khoi.una/",
   "https://www.linkedin.com/in/khoiuna",
