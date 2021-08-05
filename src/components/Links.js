@@ -1,7 +1,7 @@
 import React from "react";
 
 const myLinks = [
-  "Best App I've Seen",
+  "Make an Impact",
   "My Vietnamese YouTube channel",
   "My Instagram",
   "My LinkedIn",
