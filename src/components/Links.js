@@ -6,7 +6,6 @@ const myLinks = [
   "My Instagram",
   "My LinkedIn",
   "My GitHub",
-  "My Twitter for Programming",
 ];
 const url = [
   "https://sharethemeal.org/donate",
@@ -14,7 +13,6 @@ const url = [
   "https://www.instagram.com/khoi.una/",
   "https://www.linkedin.com/in/khoiuna",
   "https://github.com/KhoiUna",
-  "https://twitter.com/KhoiUna",
 ];
 
 class Links extends React.Component {
