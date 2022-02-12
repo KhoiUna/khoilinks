@@ -3,7 +3,7 @@ import React from "react";
 const myLinks = [
   "Make an Impact",
   "My TikTok",
-  "My Vietnamese YouTube channel",
+  "My YouTube",
   "My Instagram",
   "My LinkedIn",
   "My GitHub",
